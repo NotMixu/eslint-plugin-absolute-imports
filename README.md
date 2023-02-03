@@ -1,24 +1,22 @@
-<!-- README for eslint-plugin-absolute-imports -->
-
-# eslint-plugin-absolute-imports
+# eslint-plugin-enforce-absolute-imports
 
 ## Getting Started
 
 Use the recommended configuration
 
 ```json
-  "extends": ["plugin:absolute-imports/recommended"]
+  "extends": ["plugin:enforce-absolute-imports/recommended"]
 ```
 
 ## Rules
 
-### absolute-imports/imports
+### enforce-absolute-imports/imports
 
 This rule enforces absolute imports.
 
 ```js
 ...
-"absolute-imports/imports": [<enabled>, { allowShorterRelative: <boolean> }]
+"enforce-absolute-imports/imports": [<enabled>, { allowShorterRelative: <boolean> }]
 ...
 ```
 

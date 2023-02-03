@@ -73,9 +73,9 @@ const create = (context) => {
 module.exports = {
   configs: {
     recommended: {
-      plugins: ['absolute-imports'],
+      plugins: ['enforce-absolute-imports'],
       rules: {
-        'absolute-imports/imports': [
+        'enforce-absolute-imports/imports': [
           'error',
           {
             allowShorterRelative: true,
