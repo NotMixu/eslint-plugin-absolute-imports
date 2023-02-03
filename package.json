@@ -1,8 +1,8 @@
 {
   "name": "eslint-plugin-absolute-imports",
+  "author": "NotMixu",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:NotMixu/eslint-plugin-absolute-imports.git",
-  "author": "NotMixu <mikael@softagram.com>",
   "license": "MIT"
 }
