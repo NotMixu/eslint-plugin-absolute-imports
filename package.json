@@ -1,7 +1,8 @@
 {
   "name": "eslint-plugin-enforce-absolute-imports",
+  "description": "Enforce absolute imports in your project using eslint",
   "author": "NotMixu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "git@github.com:NotMixu/eslint-plugin-enforce-absolute-imports.git",
   "license": "MIT",
