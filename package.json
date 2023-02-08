@@ -1,8 +1,13 @@
 {
   "name": "eslint-plugin-enforce-absolute-imports",
   "author": "NotMixu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "git@github.com:NotMixu/eslint-plugin-enforce-absolute-imports.git",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslintplugin"
+  ]
 }
